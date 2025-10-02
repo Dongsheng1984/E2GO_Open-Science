@@ -1,3 +1,5 @@
+https://www.e2go-project.eu/
+
 About
 E2Go is a European funded Marie Sklodowska-Curie Doctoral Network project (specifically an European Industrial Doctorate project) that will hire and train 9 Doctoral Candidates. The project has partners from the Netherlands, Poland, Portugal, Denmark and Austria. Within E2GO cross-disciplinary, intersectoral and international collaborations between academic groups and industry partners are formed with a clear main objective: cost-reduction of EV fast-charging infrastructure to enable massive deployment for large-scale electrification of mobility.
 
